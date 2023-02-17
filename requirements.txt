@@ -18,3 +18,5 @@ gdown # supports downloading the large file from Google Drive
 # cmake
 # dlib
 # conda install -c conda-forge dlib
+
+gradio==3.18.0
